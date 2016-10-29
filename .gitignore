@@ -1,0 +1,5 @@
+# Vim Files
+*.swp
+
+# CAD backup files
+*.dxf~
